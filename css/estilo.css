@@ -3,7 +3,7 @@
     body {
       background-image : url(../static/imagenes/fondo.jpg);
       font-family: "Consolas","Open Sans", "Arial", "Helvetica", sans-serif;
-      margin:0;
+      margin:10;
       color: #0fff26;
     }
     h1 {
